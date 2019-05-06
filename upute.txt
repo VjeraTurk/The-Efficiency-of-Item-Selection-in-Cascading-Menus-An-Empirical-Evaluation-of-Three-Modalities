@@ -1,0 +1,12 @@
+Dobrodošli! Molimo vas da pažljivo pročitate ove upute
+
+Testiranje se sastoji od 3 x 3 dijela.
+Testiraju se 3 menija- jednostavan, srednje sožen i složen
+i na svakome od njih 3 modaliteta unosa.
+
+modaliteti unosa su:
+ a) klasično mišem
+ b) klasično tipkovnicom
+ c) korištenjem ISKLJUČIVO scroll wheela
+ 
+Predviđeno je da se najprije malo upoznate s modalitetima i izborima u meniju.
